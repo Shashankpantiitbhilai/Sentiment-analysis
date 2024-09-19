@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <span style="color:blue">G20 Summit Public Sentiment Analysis Project</span>
 
 ## Project Overview
@@ -61,5 +62,4 @@ This project aims to analyze public sentiment during the G20 Summit in Delhi by 
     - Used Hugging Face's `pipeline` for zero-shot classification.
 
 
-# Sentiment-analysis
-# Sentiment-analysis
+
